@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hey, my names is JohannesWM
 
-<!--
-**JohannesWM/JohannesWM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a passionate 16-year-old high school student with a deep love for coding and problem-solving. I thrive on tackling challenging and complex projects, especially when collaborating with other like-minded individuals. My journey into the world of programming started at a young age, and I've been hooked ever since.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 What I Do
+
+- **Languages:** Currently, my most used languages are: Python, C/C++, Java, Javascript, HTML!
+- **Projects:** I enjoy diving into projects that push the boundaries of my knowledge and skills. Whether it's building a web app, diving into data science, or experimenting with game development, I'm always up for a coding adventure.
+
+## 🤝 Collaboration
+
+I strongly believe in the power of teamwork. If you have an exciting project or idea, feel free to reach out! I'm always eager to collaborate, learn from others, and share my own insights.
+
+## 🌱 Learning and Growth
+
+As a high school student, I understand the importance of continuous learning. I'm committed to expanding my programming horizons, staying updated on the latest technologies, and honing my problem-solving abilities.
+
+## 📫 Let's Connect
+
+I'm open to connecting with fellow coding enthusiasts, mentors, and anyone interested in the vast world of programming. Feel free to reach out on [LinkedIn](#) or [Twitter](#).
+
+Let's code and learn together! 🚀✨
