@@ -19,6 +19,6 @@ As a high school student, I understand the importance of continuous learning. I'
 
 ## 📫 Let's Connect
 
-I'm open to connecting with fellow coding enthusiasts, mentors, and anyone interested in the vast world of programming. Feel free to reach out on [LinkedIn](#) or [Twitter](#).
+I'm open to connecting with fellow coding enthusiasts, mentors, and anyone interested in the vast world of programming. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/johannes-wabnitz-moch-aabbb4304/).
 
 Let's code and learn together! 🚀✨
